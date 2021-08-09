@@ -1,5 +1,5 @@
 # dispatcher-receiver
-.NET Core File transfer application
+.NET Core - Files transfer application
 
 ### Dispatcher:
 
